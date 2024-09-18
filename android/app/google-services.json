@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595214908101",
+    "project_id": "tobysestateph-new",
+    "storage_bucket": "tobysestateph-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595214908101:android:c5e5b4b81fc3c8c43f8eac",
+        "android_client_info": {
+          "package_name": "com.example.tobysestatephnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8GRM2KtesnQI2Q_r0qPq-9eW-OlPP7cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
